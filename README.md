@@ -1,8 +1,8 @@
-Personal study papers on Black Scholes model used for pricing european call contracts and the Monte Carlo implementation of it. 
+Personal study papers on Black Scholes model used for pricing European call contracts and the Monte Carlo implementation of it. 
 
 These papers were helpful for my implementation of the "Monte Carlo Implied Volatility Estimator" program, which was implemented in C++ using the new C++26 feature "std::philox_engine" and multithreading.
 
-Those papers are wrote in my native language (Romanian). I also rewrote the papers 3 times, that's the best calligraphy I could get unfortunately.
+These papers are written in my native language (Romanian). I also rewrote the papers 3 times, that's the best calligraphy I could get unfortunately.
 
 
 <details>
